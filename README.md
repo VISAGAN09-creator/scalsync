@@ -56,12 +56,16 @@ Reason the error & fix code automatically<br>
 Re-run
 </p>
 
+## Demo Video
+Checkout the Demo video of scalsync here 👇
+https://drive.google.com/file/d/1sEAHTYJH3GrIRPxyT0JOI3oSLJJlNSTF/view?usp=drive_link
+
 ## Security & Prototype
 As the OpenClaw framework has many security issues on using it locally on a machine, for security purpose and cost effectiveness the prototype is designed to connect with various environment like Ubunut(WSL), Windows, Gemini API etc to run the system perfectly, which is bit a complex stuff.
 
 But if we’ve a standalone system to run OpenClaw or Virtual Private Server(VPS) running on the cloud, it would be very easy to connect OpenClaw and AMD Vivado to create an Agentic environment for Chip Designing and Verification.
 
-## The Prototype Designed now:
+## The Prototype Designed now
 <p align = center>
 User Prompt<br>
      ↓<br>
@@ -80,7 +84,7 @@ Simulation / Synthesis<br>
 Agent Analysis & Response Output
 </p>
 
-## Impact of the Solution:
+## Impact of the Solution
 
 Traditional FPGA/ASIC workflows rely on repeated manual cycles, each iteration can take minutes to hours depending on design complexity. As designs grow more complex, this iterative burden slows development and limits rapid architectural exploration.
 By embedding reasoning above deterministic EDA tools, it converts static workflows into adaptive, intelligence-driven systems.
@@ -89,5 +93,5 @@ By embedding reasoning above deterministic EDA tools, it converts static workflo
 
 First, it reduces iteration time by automating repetitive debugging cycles. Engineers can focus on high-level architecture and optimization rather than syntax errors and tool diagnostics. Second, it lowers cognitive load by translating complex synthesis and simulation feedback into actionable corrections. Third, it democratizes hardware development by helping students and junior engineers navigate FPGA toolchains more effectively.
 
-## Conclusion:
+## Conclusion
 Overall, this solution shifts FPGA/ASIC development from a tool-driven workflow to an intelligence-driven workflow, accelerating innovation and advancing AI-assisted electronic design automation.

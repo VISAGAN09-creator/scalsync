@@ -57,7 +57,7 @@ Re-run
 </p>
 
 ## Demo Video
-Checkout the Demo video of scalsync here 👇
+Checkout the Demo video of scalsync here 👉
 https://drive.google.com/file/d/1sEAHTYJH3GrIRPxyT0JOI3oSLJJlNSTF/view?usp=drive_link
 
 ## Security & Prototype

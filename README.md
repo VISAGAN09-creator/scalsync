@@ -28,10 +28,10 @@ Write HDL --> Run synthesis --> Debug logs --> Fix --> Re-run
 
 
 ## Tech Stack used to solve the problem
-1) OpenClaw – A powerful Agentic AI framework to perform tasks and achieve goals.
-2) AMD Xilinx Vivado – AMD Vivado Design Suite is a comprehensive Electronic Design Automation (EDA) software tool used for synthesis, analysis, and implementation of HDL designs, specifically tailored for Xilinx FPGAs and SoCs
-3) Large Language Model – Acts as the brain for the agent to process the request and also reason to take action.
-4) Verilog – Hardware Description Language used to design and describe a chip.
+1) **OpenClaw** – A powerful Agentic AI framework to perform tasks and achieve goals.
+2) **AMD Xilinx Vivado** – AMD Vivado Design Suite is a comprehensive Electronic Design Automation (EDA) software tool used for synthesis, analysis, and implementation of HDL designs, specifically tailored for Xilinx FPGAs and SoCs
+3) **Large Language Model** – Acts as the brain for the agent to process the request and also reason to take action.
+4) **Verilog** – Hardware Description Language used to design and describe a chip.
 
 ## Solution Architecture
 This approach can boost the speed of designing the chips and improve productivity to make new design and get time to market it out.

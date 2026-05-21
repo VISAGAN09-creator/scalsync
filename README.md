@@ -20,6 +20,10 @@ Re-runs verification automatically<br>
 </p>
 This transforms FPGA workflows from tool-driven iteration into intelligence-driven orchestration.
 
+## Prototype/Demo Video
+Checkout the Demo video of scalsync here 👉
+https://drive.google.com/file/d/1sEAHTYJH3GrIRPxyT0JOI3oSLJJlNSTF/view?usp=drive_link
+
 ## Problem
 Modern chip design workflows are manual, iterative, and time-consuming, requiring engineers to repeatedly write HDL, run EDA tools, analyze logs, and debug errors, this reduces exploration of new designs. For this an AI-driven closed-loop hardware design system that autonomously generates, verifies, and optimizes digital circuits within existing EDA workflows.
 
@@ -56,9 +60,6 @@ Reason the error & fix code automatically<br>
 Re-run
 </p>
 
-## Prototype/Demo Video
-Checkout the Demo video of scalsync here 👉
-https://drive.google.com/file/d/1sEAHTYJH3GrIRPxyT0JOI3oSLJJlNSTF/view?usp=drive_link
 
 ## Security & Prototype
 As the OpenClaw framework has many security issues on using it locally on a machine, for security purpose and cost effectiveness the prototype is designed to connect with various environment like Ubunut(WSL), Windows, Gemini API etc to run the system perfectly, which is bit a complex stuff.
